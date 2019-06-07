@@ -2,7 +2,6 @@
 #include "AirplaneClass.h"
 
 AirplaneClass AirplaneClass::convertLineToAirplaneClass(string line) {
-	cout << line << "line" <<endl;
 	vector<string> words;
 	string::size_type i = 0;
 	string::size_type j = line.find(' ');
