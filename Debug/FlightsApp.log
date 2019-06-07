@@ -1,7 +1,5 @@
-﻿  AirplaneClass.cpp
-  FlightsApp.cpp
-c:\users\dell\desktop\flightsapp\flightsapp\flightsapp.cpp(173): warning C4018: '<': signed/unsigned mismatch
-c:\users\dell\desktop\flightsapp\flightsapp\flightsapp.cpp(233): warning C4018: '<': signed/unsigned mismatch
-c:\users\dell\desktop\flightsapp\flightsapp\flightsapp.cpp(251): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
+﻿  FlightsApp.cpp
+c:\users\dell\desktop\flightsapp\flightsapp\flightsapp.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\flightsapp\flightsapp\flightsapp.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\flightsapp\flightsapp\flightsapp.cpp(253): warning C4018: '<': signed/unsigned mismatch
   FlightsApp.vcxproj -> C:\Users\Dell\Desktop\FlightsApp\Debug\FlightsApp.exe
